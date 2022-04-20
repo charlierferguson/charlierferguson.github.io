@@ -1,4 +1,4 @@
-- default: menu_index
+- title: Home
   url: ''
 
 - default: menu_category
@@ -7,11 +7,11 @@
 - title: "Consultancy Projects"
   url: "consultancyprojects"
 
-- default: "Research on NFM"
+- title: "Research on NFM"
   url: "nfmwork"
 
-- default: "Research on CBS"
+- title: "Research on CBS"
   url: "cbswork"
 
-- default: menu_about
+- title: menu_about
   url:   "about"
