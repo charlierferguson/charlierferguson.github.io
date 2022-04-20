@@ -1,14 +1,14 @@
 - title: Home
   url: ''
 
-- default: menu_category
-  url: 'categories'
+- title: Fog Harvesting Project
+  url: 'FogHarvestingProject'
 
-- title: "Consultancy Projects"
+- title: "Consultancy Work"
   url: "consultancyprojects"
 
-- title: "Research on NFM"
-  url: "nfmwork"
-
-- title: "Research on CBS"
+- title: "CBS Research"
   url: "cbswork"
+  
+- title: "NFM Research"
+  url: "nfmwork"
